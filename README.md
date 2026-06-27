@@ -12,13 +12,11 @@ visualizations to provide meaningful insights into the housing
 market for better decision making.
 
 ## About
-- Built as part of MCA Data Science curriculum at 
-  Sri Balaji University, Pune
-- Group Project — Led and completed independently as Team Leader
-- Completed in 2 days
+- Developed an interactive housing market analytics platform using Tableau and Flask to visualize key market trends, pricing factors, and housing characteristics through data-driven dashboards.
+- Group Project — Led and completed independently as Team Leader responsible for project planning, dashboard development, and application integration.
 
 ## Dataset
-- Source: SkillWallet / Kaggle (Transformed Housing Data)
+- Source: Kaggle (Transformed Housing Data)
 - Records: 21,609 houses
 - Features: Sale Price, Area (sqft), Bedrooms, Bathrooms, 
   Floors, House Age, Renovation Status
